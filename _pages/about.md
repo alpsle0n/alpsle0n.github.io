@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a junior undergraduate majoring in Computer Science at Chu Kochen Honors College, Zhejiang University.
+I'm a junior undergraduate majoring in Computer Science at Chu Kochen Honors College, Zhejiang University. I will graduate in 2026.
 
 My research interest includes security and robustness of large language models.
 
@@ -36,13 +36,13 @@ I have published more than 100 papers at the top international AI conferences wi
 
 [A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](https://arxiv.org/abs/2406.03712v1)
 
-Lei Liu, Xiaoyan Yang, Junchi Lei, **Xiaoyang Liu** et al.
+Lei Liu, Xiaoyan Yang, Junchi Lei, **Xiaoyang Liu**, et al.
 
 # 🎖 Honors and Awards
 
 - _2023.09_ Zhejiang University Scholarship(Second Price)
 - _2024.09_ Zhejiang University Scholarship(Second Price)
-- _2024.11_ Zhejiang Province Government Scholarship
+- _2024.11_ **Zhejiang Province Government Scholarship**
 
 # 📖 Educations
 
