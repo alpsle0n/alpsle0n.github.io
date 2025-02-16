@@ -56,3 +56,7 @@ Lei Liu, Xiaoyan Yang, Junchi Lei, **Xiaoyang Liu**, et al.
 # 💻 Internships
 
 - _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
+
+# 💬 Misc
+
+- I love road cycling, playing badminton and capturing the world through photography.
