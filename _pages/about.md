@@ -40,8 +40,8 @@ Lei Liu, Xiaoyan Yang, Junchi Lei, **Xiaoyang Liu**, et al.
 
 # 🎖 Honors and Awards
 
-- _2023.09_ Zhejiang University Scholarship(Second Price)
-- _2024.09_ Zhejiang University Scholarship(Second Price)
+- _2023.09_ Zhejiang University Scholarship (Second Price)
+- _2024.09_ Zhejiang University Scholarship (Second Price)
 - _2024.11_ **Zhejiang Province Government Scholarship**
 
 # 📖 Educations

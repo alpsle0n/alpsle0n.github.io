@@ -22,7 +22,8 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Xiaoyang Liu (柳笑阳)"
-  avatar: "images/android-chrome-512x512.png"
+  # avatar: "images/android-chrome-512x512.png"
+  avatar: "images/avatar01.png"
   bio: "Zhejiang University, China"
   location: "Hangzhou, China"
   employer:
