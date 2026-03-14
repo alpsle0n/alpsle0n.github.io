@@ -1,5 +1,3 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+我目前是浙江大学 CAD&CG 全国重点实验室博士生，导师是 [沈春华教授](https://scholar.google.com/citations?user=Ljk2BvIAAAAJ&hl=en) 和 [陈昊教授](https://stan-haochen.github.io/)。将于 2026 年 9 月开始博士学习。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
-
-我的研究主要关注自然哲学中的数学原理。
+我的研究主要关注多模态智能体与具身智能。

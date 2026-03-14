@@ -1,18 +1,20 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "柳笑阳"
+description = "浙江大学 CAD&CG 全国重点实验室博士生个人主页。"
+last_updated = "2026年3月14日"
 
 [author]
-name = "刘嘉乐"
+name = "柳笑阳"
 title = "博士生"
-institution = "某某大学"
+institution = "浙江大学 CAD&CG 全国重点实验室"
 
 [social]
-location = "城市，国家"
+location = "中国浙江省杭州市"
+location_url = "https://maps.google.com/?q=浙江大学紫金港校区"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "浙江大学 CAD&CG 全国重点实验室，",
+  "紫金港校区，",
+  "浙江省杭州市西湖区余杭塘路866号"
 ]
 
 [[navigation]]

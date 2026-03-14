@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Multimodal Agents",
+  "Embodied AI",
+  "Computer Vision"
 ]
 
 [[sections]]
@@ -13,6 +13,12 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
+
+[[sections]]
+id = "education"
+type = "markdown"
+source = "education.md"
+title = "Education"
 
 [[sections]]
 id = "featured_publications"
@@ -26,4 +32,18 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
+
+[[sections]]
+id = "awards"
+type = "cards"
+title = "Awards"
+source = "awards.toml"
+limit = 3
+
+[[sections]]
+id = "teaching"
+type = "cards"
+title = "Teaching"
+source = "teaching.toml"
+limit = 3
 

@@ -3,8 +3,15 @@ title = "教学"
 description = "我曾参与授课或助教的课程。"
 
 [[items]]
-title = "示例课程"
+title = "Python程序设计"
 subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
+date = "2025-26学年春夏学期"
+content = "Python程序设计课程助教。任课教师：张引老师。"
+tags = ["本科生", "计算机"]
+
+[[items]]
+title = "Python程序设计"
+subtitle = "助教"
+date = "2025-26学年秋冬学期"
+content = "Python程序设计课程助教。任课教师：张引老师。"
 tags = ["本科生", "计算机"]

@@ -2,8 +2,12 @@ type = "card"
 title = "Services"
 description = "Professional services and community involvement."
 
-[[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+# Empty items array to prevent crash
+items = []
+
+# Add your real services here when available
+# [[items]]
+# title = "Reviewer"
+# subtitle = "Conference/Journal Name"
+# date = "2024"
+# content = "Reviewed papers for..."

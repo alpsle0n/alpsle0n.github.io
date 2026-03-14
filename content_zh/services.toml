@@ -2,8 +2,12 @@ type = "card"
 title = "学术服务"
 description = "专业服务与社区参与。"
 
-[[items]]
-title = "审稿人"
-subtitle = "某期刊"
-date = "2024"
-content = "参与审阅论文。"
+# 空数组防止页面崩溃
+items = []
+
+# 有真实内容时在这里添加
+# [[items]]
+# title = "审稿人"
+# subtitle = "会议/期刊名称"
+# date = "2024"
+# content = "参与审阅论文..."

@@ -3,25 +3,19 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Zhejiang Provincial Government Scholarship"
+subtitle = "Zhejiang Provincial Government"
 date = "2025"
-content = "Description of the award."
+content = "Awarded for outstanding academic performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Zhejiang Provincial Government Scholarship"
+subtitle = "Zhejiang Provincial Government"
 date = "2024"
-content = "Description of the award."
+content = "Awarded for outstanding academic performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Second-Class Scholarship"
+subtitle = "Zhejiang University"
 date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+content = "Awarded for excellent academic achievement."

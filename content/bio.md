@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD student at the State Key Lab of CAD&CG, Zhejiang University, advised by [Prof. Chunhua Shen](https://scholar.google.com/citations?user=Ljk2BvIAAAAJ&hl=en) and [Prof. Hao Chen](https://stan-haochen.github.io/). I will start my PhD journey in September 2026.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My current research focuses on multimodal agents and embodied AI.
