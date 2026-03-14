@@ -16,9 +16,9 @@ title = "About"
 
 [[sections]]
 id = "education"
-type = "markdown"
-source = "education.md"
+type = "cards"
 title = "Education"
+source = "education.toml"
 
 [[sections]]
 id = "featured_publications"

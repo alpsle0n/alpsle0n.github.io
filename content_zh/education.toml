@@ -1,0 +1,15 @@
+type = "card"
+title = "教育背景"
+description = "我的学术经历。"
+
+[[items]]
+title = "计算机科学博士"
+subtitle = "浙江大学"
+date = "2026 - 至今"
+content = "CAD&CG 全国重点实验室。导师：沈春华教授、陈昊教授。"
+
+[[items]]
+title = "计算机科学与技术学士"
+subtitle = "浙江大学"
+date = "2022 - 2026（预计）"
+content = "竺可桢学院混合班。"
