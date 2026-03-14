@@ -1,15 +1,14 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import { parse } from 'smol-toml';
 import type { I18nConfig } from '@/types/i18n';
 
 function getLastUpdatedDate(locale?: string): string {
-  const now = Date.now();
   let latestTime = 0;
 
   // Try to get the last git commit date first
   try {
-    const { execSync } = require('child_process');
     const gitDate = execSync('git log -1 --format=%cd --date=iso', {
       cwd: process.cwd(),
       encoding: 'utf-8',
